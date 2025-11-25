@@ -4,10 +4,11 @@ PROJECT TITLE:
 SuperMarket Smart Manager (C Programming Project)
 
 SUBMITTED BY:
-[Your Name]
-[Roll No.]
-Department of Computer Science
-Academic Year: 2024–2025
+Devam Yadav
+SapId:590022492
+Batch : 20
+Course : B.Tech CSE
+Subject : Programming in C
 
 PROJECT OVERVIEW
 
@@ -73,11 +74,9 @@ BILLING FEATURES
 PROJECT STRUCTURE
 
 /SuperMarketProject  
-|-- src/main.c  
-|-- docs/ProjectReport.pdf  
-|-- docs/Flowchart.png  
-|-- docs/ProjectReport.pptx  
-|-- README.txt  
+|-- src/SSM.c  
+|-- docs/ProjectReport.pdf   
+|-- README.md  
 
 TESTING SUMMARY
 
